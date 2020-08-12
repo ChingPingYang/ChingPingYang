@@ -1,6 +1,4 @@
 ### Hi, I'm ChingPing. You can also call me James. 👋
-
-Here are some ideas to get you started:
 ## I'm a Front-end Developer, and Visual Designer.
 - 🌱 I’m currently learning everything about web development
 - 🏢 I’m looking for a job 🙌 
