@@ -13,7 +13,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.4.1/icons/facebook.svg" />][facebook]
 
 <br />
-<br />
 
 ### Languages and Tools:
 
