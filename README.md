@@ -30,9 +30,9 @@
 <img align="left" alt="MongoDB" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
 <img align="left" alt="MySQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="GraphQL" width="35px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/graphql/graphql.png" />
-<img align="left" alt="Java" width="35px" src="https://icon2.cleanpng.com/20180805/xwk/kisspng-logo-java-runtime-environment-programming-language-java-util-concurrentmodificationexception-%C3%96mer-5b6766aaf21ab4.3339227715335031469917.jpg" />
-<img align="left" alt="php" width="30px" src="https://www.php.net/images/logos/new-php-logo.svg" />
-<img align="left" alt="Figma" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
+<img align="left" alt="Java" width="35px" src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
+<img align="left" alt="php" width="30px" src="https://cdn.worldvectorlogo.com/logos/php.svg" />
+<img align="left" alt="Figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
 <img align="left" alt="Adobe Illustrator" width="35px" src="https://cdn.shopify.com/s/files/1/2169/0453/products/ai_grande.png?v=1586953493" />
 <br />
 <br />
