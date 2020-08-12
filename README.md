@@ -1,5 +1,5 @@
 ### Hi, I'm ChingPing. You can also call me James. 👋
-## I'm a Front-End Developer, and Visual Designer.
+## I'm a Front-End Developer and Visual Designer.
 - 🌱 I’m currently learning everything about web development
 - 🏢 I’m looking for a job 🙌 
 - 📫 How to reach me: [my website][website]
