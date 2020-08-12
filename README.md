@@ -5,7 +5,6 @@
 - 📫 How to reach me: [my website][website]
 - ⚡ Fun fact: I also speak a bit of Korean (I'm from Taiwan)🇰🇷
 
-<br />
 
 ### Connect with me:
 
