@@ -29,7 +29,7 @@
 <img align="left" alt="Java" width="35px" src="https://cdn.vox-cdn.com/thumbor/VoXJ8IaxCj5_U-366JhtUHLkdQ0=/0x0:640x427/1400x1050/filters:focal(0x0:640x427):format(jpeg)/cdn.vox-cdn.com/assets/1087137/java_logo_640.jpg" />
 <img align="left" alt="php" width="30px" src="https://cdn.worldvectorlogo.com/logos/php.svg" />
 <img align="left" alt="Figma" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Figma-logo.svg/1667px-Figma-logo.svg.png" />
-<img align="left" alt="Adobe Illustrator" width="35px" src="https://cdn.shopify.com/s/files/1/2169/0453/products/ai_grande.png?v=1586953493" />
+<img align="left" alt="Adobe Illustrator" width="35px" src="https://community.adobe.com/t5/image/serverpage/image-id/38870iA377F6184F95A255?v=v2" />
 <br />
 <br />
 
