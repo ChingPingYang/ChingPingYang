@@ -34,7 +34,7 @@
 <br />
 
 
-<img align="left" alt="ChingPingYang's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=ChingPingYang&show_icons=true&hide_border=true" />
+
 
 [website]: https://chingpingyang.com/
 [linkedin]: https://www.linkedin.com/in/chingpingyang/
