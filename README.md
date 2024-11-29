@@ -1,10 +1,7 @@
-### Hi, I'm ChingPing. You can also call me James. 👋
+### Hi, it's Chingping. You can also call me James. 👋
 ## I'm a Front-End/Full-Stack Developer.
-- 🌱 I’m currently learning everything about web development
-- 🏢 I’m looking for a job 🙌 
+- 🌱 Love learning new things
 - 📫 How to reach me: [my website][website]
-- ⚡ Fun fact: I also speak a bit of Korean (I'm from Taiwan)🇰🇷
-
 
 ### Connect with me:
 
